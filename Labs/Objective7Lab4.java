@@ -4,13 +4,13 @@ public class Objective7Lab4 {
     int sum = 0;
 
 
-    while(counter <= 20) {
-      System.out.println(sum);
+    while(counter <= 19) {
+
       counter ++;
       sum = sum + counter;
-
-
-
     }
+      System.out.println(sum);
+
+
   }
 }
